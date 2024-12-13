@@ -80,4 +80,3 @@ Here's the developer tools side-by-side, but you can see the `<use href=` is ver
 | Vite 5.4.11                                                | Vite 6.0.3                                                |
 |------------------------------------------------------------|-----------------------------------------------------------|
 | ![Vite 5.4.11 developer tools](readme/vite5devtools.png)   | ![Vite 6.0.3 developer tools](readme/vite6devtools.png)   |
-| ---------------------------------------------------------- | --------------------------------------------------------- |
