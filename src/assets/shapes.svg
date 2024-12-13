@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+    <circle id="circle" r="10" cx="10" cy="10" fill="red"/>
+    <rect id="square" x="0" y="0" width="20" height="20" fill="green"/>
+</svg>
